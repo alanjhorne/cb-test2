@@ -1,3 +1,2 @@
 # cbtest2
-Creating a new line of text 
-This didn't trigger a build the first time.
+Triggering a build for a new project.
